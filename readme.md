@@ -1,1 +1,1 @@
-Eclipse is so bad that I have to restart my work of Intellij all over again :(
+Eclipse is so bad that I have to restart my work on Intellij all over again :(
